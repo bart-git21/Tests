@@ -1,0 +1,11 @@
+
+
+.dropdownMenu {
+    padding: 5px 10px;
+    display: inline-block;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+.dropdownMenu:hover {
+    cursor: pointer;
+}

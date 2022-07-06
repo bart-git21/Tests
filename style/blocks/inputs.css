@@ -1,0 +1,28 @@
+
+li input {
+    font-size: 1.5rem;
+    word-wrap: break-word;
+}
+
+.b-bottom {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #ddd;
+}
+
+.correct {
+    color: green;
+}
+.wrong {
+    color: red;
+}
+
+
+textarea {
+    font-size: 1.5rem;
+    outline: none;
+    /* убрать уголок ресайза */
+    resize: none;
+    /* убрать нижний отступ */
+    overflow: hidden; 
+}
